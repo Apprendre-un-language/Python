@@ -1,19 +1,5 @@
 # Python
 
----
-language: Python
-contributors:
-    - ["Louie Dinh", "http://pythonpracticeprojects.com"]
-    - ["Steven Basart", "http://github.com/xksteven"]
-    - ["Andre Polykanine", "https://github.com/Oire"]
-    - ["Zachary Ferguson", "http://github.com/zfergus2"]
-translators:
-    - ["Gnomino", "https://github.com/Gnomino"]
-    - ["Julien M'Poy", "http://github.com/groovytron"]
-filename: learnpython-fr.py
-lang: fr-fr
----
-
 Python a été créé par Guido Van Rossum au début des années 90. C'est maintenant un des 
 langages les plus populaires. Je suis tombé amoureux de Python pour la clarté de sa syntaxe.
 C'est tout simplement du pseudo-code exécutable.
